@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work on newtwo
+This repository is for showing how Git and GitHub work on newtwo - on local
 
 # Intro
 
