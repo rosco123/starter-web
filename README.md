@@ -12,7 +12,7 @@ To test the git features
 
 ## Description
 
-#Adding copyright notice to readme.md
+#Adding copyright notice to readme.md. All rights reserved.
 
 #Please fork
 
