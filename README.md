@@ -14,6 +14,6 @@ To test the git features
 
 #Adding copyright notice to readme.md. All rights reserved.
 
-#Please fork
+#Please fork copyright added on master
 
 
