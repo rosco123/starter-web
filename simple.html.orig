@@ -2,11 +2,11 @@
 <!-- Copyright notice -->
 <head>
 <<<<<<< HEAD
-<<<<<<< HEAD
-	<title>An good website - on master</title>
+	<!-- Master b change here -->
+	<title>An good website - on master main</title>
 =======
-	<title>An good website - on branch</title>
->>>>>>> troubletwo
+	<title>An good website - on branch newtwo </title>
+>>>>>>> newtwo b txt change
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -25,7 +25,7 @@
 	</main>
 	<footer class="container">
 		<p>&copy; Company 2014. 
-		<br>Copyright notice</p>
+		<br>Copyright notice added today</p>
 	</footer>
 </body>
 </html>
